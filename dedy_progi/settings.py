@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--58gm_4afh0v**3l2lh$fa22p8gz#^2(z7576vh6os)d!7=cg8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['meh-jcl8.onrender.com']
+ALLOWED_HOSTS = ['meh-jcl8.onrender.com', 'dedy3-production.up.railway.app']
 
 
 # Application definition
